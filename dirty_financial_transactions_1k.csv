@@ -1,0 +1,1001 @@
+Transaction_ID,Transaction_Date,Customer_ID,Product_Name,Quantity,Price,Payment_Method,Transaction_Status
+T75722,2022-07-21,C3456,Laptop,-9.0,422.54062324124203,PayPal ,Completed
+T80185,2025-02-30,C080,Laptop,5.0,-773.4526301779505,credit card,completed
+T19865,2023-13-01,C1106,Coffee Machine,5.0,,pay pal,
+T76700,2025-02-30,C3862,Coffee Machine,6.0,,Cash,Failed
+T92992,2025-02-30,C321,Tablet,-7.0,174.53223890569643,Credit Card,completed
+T76435,2021-09-29,C901,Laptop,486.0,279.0015330057047,PayPal,complete
+T84005,2025-02-30,C080,Headphones,-8.0,,Cash,
+T80918,2023-13-01,C4989,Coffee Machine,681.0,-164.93652904726594,Cash,Completed
+T60768,2020-08-30,C2386,Coffee Machine,2.0,,creditcard,Completed
+T50075,2023-13-01,C3015,Tablet,6.0,,Credit Card,Completed
+T27702,2021-07-21,C3956,Laptop,-8.0,649.3084593783449,Credit Card,Pending
+T42142,2025-02-30,C1355,Tablet,718.0,908.3517968898033,pay pal,complete
+T45081,2023-13-01,C3691,Coffee Machine,-10.0,,credit card,complete
+T16639,2023-13-01,C4714,Smartphone,5.0,-796.8345150077166,PayPal ,
+T20425,2025-02-30,C1488,Headphones,737.0,,PayPal ,completed
+T88703,2021-10-31,C3098,Tablet,-7.0,,creditcard,Pending
+T0150,2025-02-30,C3843,Coffee Machine,7.0,497.4078791781518,pay pal,completed
+T1762,2024-08-20,C2106,Headphones,,,Credit Card,complete
+T63121,2023-13-01,C2231,Laptop,-5.0,337.25720902211566,credit card,completed
+T69162,2025-02-30,C4409,Coffee Machine,836.0,835.1205583108846,creditcard,completed
+T64884,2025-02-30,C4471,Lap,661.0,$564.61,PayPal,complete
+T2496,2023-13-01,C595,Headphones,-6.0,,PayPal,complete
+T80297,2025-02-30,C3260,Headphones,6.0,$753.80,creditcard,complete
+T19448,2025-02-30,C4816,Coffee Machine,-1.0,-52.59147170670508,creditcard,Failed
+T11719,2023-13-01,C2730,Coffee Machine,647.0,$933.43,creditcard,complete
+T14889,2020-11-04,C2116,Tablet,2.0,850.7710597025589,PayPal,completed
+T88637,2025-02-30,C2294,Laptop,-6.0,$215.73,PayPal,completed
+T94893,2025-02-30,C1328,Headphones,141.0,,PayPal ,
+T92732,2025-02-30,C3429,Smartpho,-1.0,$691.99,Credit Card,
+T29131,2022-10-24,C879,Headphones,367.0,,Cash,completed
+T79023,2023-13-01,C4312,Coffee Machine,638.0,,Cash,complete
+T84937,2025-02-30,C2961,Tabl,6.0,655.1336256338301,Cash,Pending
+T16822,2021-01-15,C3380,Headphones,706.0,$830.00,credit card,complete
+T36734,2025-02-30,C4936,Laptop,-4.0,,Credit Card,
+T15603,2023-13-01,C4911,Headphones,10.0,-338.34526013885727,pay pal,Failed
+T28534,2025-02-30,C1438,Smartphone,-5.0,$-724.07,credit card,completed
+,2025-02-30,C4919,Smartphone,647.0,177.02705971474705,PayPal,
+T11406,2025-02-30,C1052,Laptop,5.0,-369.8578968645063,pay pal,Pending
+T96853,2022-10-04,C812,Coffee Machine,3.0,$99.49,credit card,Failed
+T16131,2020-11-24,C3302,Tablet,10.0,$-69.73,PayPal ,Failed
+T19793,2025-02-30,C588,Laptop,-4.0,,Cash,Completed
+T89578,2023-13-01,,Headphones,750.0,,pay pal,Completed
+T40164,2020-11-15,C1555,Laptop,564.0,-205.08744654704105,Credit Card,Completed
+T31777,,C1300,Laptop,277.0,160.8281827247164,Credit Card,Failed
+T25331,2020-04-05,C1392,Laptop,3.0,-241.16490933280227,Credit Card,completed
+T79157,2024-05-10,C4270,Headphones,2.0,483.65287873337235,Cash,Completed
+T51686,2022-01-26,C563,Coffee,9.0,206.47765966596234,Credit Card,
+T75499,2022-11-15,C145,Sma,9.0,,credit card,completed
+T4728,2021-04-01,C3182,Coffee Machine,-9.0,175.4542817258239,PayPal ,completed
+T85199,2020-04-25,C1989,Coffee Machine,137.0,,credit card,complete
+T35796,,C163,Headphones,10.0,154.6378976338686,pay pal,Completed
+T12257,2020-01-02,C4210,Coffee Machine,-3.0,$-873.84,creditcard,complete
+T35719,2022-10-06,C221,Headphones,-8.0,665.2860097966053,PayPal,Pending
+T70552,2025-02-30,C4410,Laptop,-6.0,-472.4547300791345,PayPal,complete
+T54375,2023-13-01,C2904,Tablet,6.0,-691.9447297600643,pay pal,completed
+T39692,2023-13-01,C3744,Tablet,8.0,$439.13,Cash,Pending
+T93703,2025-01-14,C1336,Laptop,-10.0,814.6799115762628,credit card,Failed
+T73692,2023-13-01,C2941,Smartphone,,206.19623726490394,PayPal ,completed
+T98071,2023-13-01,C656,Laptop,-10.0,,credit card,Completed
+T0576,2020-10-21,C3653,Laptop,487.0,-462.55884935511506,Cash,Failed
+T84611,2023-13-01,C2360,Tablet,-3.0,-883.288649857167,creditcard,Pending
+T61770,2023-13-01,C4718,T,,-924.8365637300817,creditcard,Failed
+T32261,2021-12-28,C3927,Smartphone,466.0,$-960.94,PayPal,Failed
+T82200,2025-02-30,C3851,Tablet,-5.0,,Credit Card,completed
+T36291,2023-13-01,C2459,Laptop,853.0,,PayPal ,
+T78450,2023-13-01,C2328,La,157.0,-114.67156795571282,PayPal,Failed
+T60056,2025-02-30,C1024,Laptop,631.0,-418.69232219898504,credit card,Completed
+T45949,2023-11-13,C3474,Headphones,1.0,691.1905611599038,pay pal,Failed
+T28178,2025-02-30,C1811,Headphones,4.0,,PayPal ,
+T84464,2025-02-30,C1754,Smartphone,-10.0,-614.2455984608073,Credit Card,complete
+T0579,2020-10-11,C4392,Coffee Machine,7.0,,Cash,Completed
+T30960,2025-02-30,C139,Laptop,-5.0,,credit card,complete
+T64291,2023-13-01,C1535,Tablet,7.0,,PayPal,Completed
+T14532,2025-02-30,,Smartphone,7.0,,PayPal,
+T17934,2022-01-15,C2823,Tablet,,-595.4100439597864,credit card,complete
+T33609,2025-02-30,C2620,Coffee Mach,,-619.284013665414,PayPal,completed
+T49960,2023-13-01,C3564,Coffee,7.0,,credit card,Pending
+T66599,2023-13-01,C1142,Coffee Machine,2.0,,pay pal,
+T99090,2020-01-28,,Coffee Machine,915.0,974.004199673276,pay pal,Failed
+T34452,2025-02-30,C4570,Coffee Machine,803.0,571.550665083023,PayPal ,
+T34081,2021-02-02,C1344,Ta,289.0,$-444.63,Cash,completed
+T63588,2025-02-30,C4825,Headphones,-6.0,$-318.56,PayPal,complete
+T4294,2025-02-30,C1661,Laptop,8.0,183.26779616916767,Credit Card,Completed
+T69103,2023-13-01,C3943,Laptop,-2.0,590.3842593227596,PayPal,complete
+T86412,2023-13-01,C1472,Coffee Machine,-4.0,$164.01,PayPal ,Pending
+T99477,2023-13-01,C4400,Tablet,651.0,,PayPal,completed
+T53930,2025-02-30,C3477,Headphones,544.0,,PayPal,completed
+T87071,2023-13-01,C4934,Smartphone,3.0,148.37256945579855,PayPal ,complete
+T65084,2025-02-30,C2764,Smartphone,694.0,808.630351274751,pay pal,complete
+T30713,2021-11-08,C4570,Sm,844.0,-75.23899718282439,credit card,Failed
+,2021-07-17,C312,T,-2.0,-369.3383892220736,creditcard,
+T57235,2025-02-30,C2203,Tablet,-10.0,-394.4618093175982,credit card,Failed
+T15664,2025-02-30,C4960,Laptop,5.0,,Cash,Completed
+T19967,2020-05-05,C4043,Tablet,439.0,$527.16,Cash,Pending
+T91913,2025-02-30,C1770,Tablet,-2.0,,credit card,
+T91958,2025-02-30,C1000,Laptop,-6.0,,PayPal,
+T81347,2022-02-21,C4265,Laptop,1.0,-161.50469345057525,creditcard,Pending
+T55326,2023-04-22,C446,Laptop,308.0,512.3924150741743,Credit Card,Failed
+,2025-02-30,C1609,Headphones,,529.2995863335774,creditcard,Failed
+T71223,,C3582,Headphones,-1.0,161.94832325636216,credit card,completed
+T52459,2025-02-30,C4226,Laptop,832.0,$-734.35,creditcard,Completed
+T88346,2025-02-30,C1765,Tab,-1.0,,pay pal,complete
+T82364,2022-05-16,C1199,Smartphone,,-463.04319255336,Cash,Pending
+T65350,2024-08-06,C652,Coffee Machine,2.0,-162.20867283155906,pay pal,Completed
+T59650,2024-04-13,C1861,Headphones,2.0,-352.84584991374766,Credit Card,complete
+T44953,2021-02-01,C4412,Tablet,838.0,,pay pal,Pending
+T39526,2023-13-01,C1169,Headphones,681.0,$-926.02,PayPal,complete
+T13936,2020-05-16,C4930,Tablet,598.0,668.5318243772258,creditcard,Pending
+T93781,,C3232,Coffee Machine,897.0,,Cash,Pending
+T89885,2025-02-30,C3256,Headphones,326.0,662.1777872341111,Cash,
+T81144,2025-02-30,C1970,Headphones,103.0,,pay pal,Pending
+T95800,2023-13-01,C708,Coffee Machine,5.0,,Credit Card,Completed
+,2025-02-30,C2877,Headphones,-10.0,,credit card,
+T55224,2024-05-03,,Coffee Machine,1.0,,pay pal,Failed
+T73646,2025-02-30,C2236,Laptop,734.0,,PayPal ,Completed
+T66294,2020-06-05,C2151,Smartphone,8.0,,creditcard,Failed
+T65540,2025-02-30,C967,Coffee Machine,-3.0,466.67177764654906,Cash,
+T28111,2024-08-17,C3860,C,-4.0,-611.588831568052,PayPal,complete
+,2023-13-01,C3323,Laptop,-10.0,-189.9091894293233,credit card,Pending
+T86547,2024-04-05,C1296,Smartphone,8.0,,pay pal,
+T82586,2023-13-01,C008,Coffee Machine,603.0,-817.5198265012339,creditcard,complete
+,2025-02-30,C1201,Laptop,-3.0,-390.1912134048682,creditcard,
+T91658,2023-13-01,C2935,Smartphone,844.0,-605.1765950117667,Credit Card,complete
+T62787,2021-11-25,C336,Laptop,-9.0,$377.03,PayPal ,
+T84341,2025-02-30,C2483,Coffee Machine,10.0,,PayPal ,complete
+T39875,2022-05-26,C3686,Tab,-3.0,-616.645760261842,PayPal,complete
+T78469,2021-10-10,C1333,Tablet,,$-210.92,creditcard,
+T31632,2023-13-01,C4173,Headphones,607.0,105.82197045804898,PayPal ,Pending
+T14953,2023-13-01,C129,Coffee Machine,1.0,,PayPal,Completed
+T39332,2023-05-31,C957,Laptop,,,credit card,completed
+T48588,2023-12-13,C535,Coffee Machine,,-237.24560812864593,Cash,
+T83595,,C4544,Smartphone,4.0,$-343.41,Credit Card,
+T41488,2025-01-25,C3403,Coffee Machine,-10.0,,creditcard,
+T39628,2025-02-30,C4543,Coffee Mac,374.0,,creditcard,Completed
+T87895,2025-02-30,C2999,Tablet,717.0,,Cash,Completed
+T26304,2021-04-12,C1104,Coffee Machine,8.0,363.62039720399497,PayPal,Failed
+T67404,2023-13-01,C805,Tablet,5.0,,Credit Card,
+T98085,2025-02-30,,Coffee Machine,757.0,265.7213891884086,creditcard,Failed
+T95602,2021-11-13,C3167,Tablet,-6.0,789.5633805478257,credit card,Pending
+T5020,2023-13-01,C3940,Smartphone,-8.0,-423.91281954659075,Credit Card,Failed
+T5224,2025-02-30,C1074,Tablet,211.0,$-755.94,Cash,completed
+T15781,2023-13-01,C1981,Smartphone,740.0,,Credit Card,complete
+T45557,2021-03-27,C4245,Headphones,3.0,-743.6054883848208,PayPal ,completed
+T12897,2022-03-18,C1613,Smartphone,5.0,-975.7863705771142,credit card,completed
+T34305,2023-13-01,C1610,Smartphone,-5.0,533.3232723712001,pay pal,Pending
+T93323,2025-02-30,C2822,Lap,-1.0,,pay pal,
+T5325,2023-13-01,C3180,Tablet,,936.07256278163,Credit Card,completed
+,2023-13-01,C2825,Laptop,727.0,-252.00577405817296,pay pal,Completed
+T62865,2023-13-01,C1086,Laptop,435.0,153.22287864713525,PayPal,Failed
+T8019,2025-02-30,C2281,Tablet,-2.0,,Cash,complete
+T82945,2023-13-01,C161,Headphones,740.0,70.98399347659858,creditcard,completed
+T90377,2025-02-30,C1515,Smartphone,-5.0,510.8553240908533,Credit Card,Failed
+T41721,2023-06-13,C4174,Smar,,,creditcard,Failed
+T0867,2024-11-09,C3206,Smartphone,536.0,$-890.64,pay pal,Completed
+T98444,2023-13-01,C3764,Smartphone,281.0,,pay pal,Failed
+T83040,2023-13-01,C3766,Lapt,8.0,522.3776553909765,credit card,completed
+T13925,2025-02-30,C3941,Laptop,8.0,852.0154759282641,Credit Card,Pending
+T79893,2023-03-19,C2369,Smartphone,358.0,,PayPal ,Failed
+T31184,2021-04-01,C2848,Laptop,3.0,,credit card,Pending
+T13800,2023-13-01,C3952,Headphones,7.0,-938.9387866129006,pay pal,
+T40989,2020-05-23,,Laptop,885.0,-932.2298442212831,Cash,complete
+T66734,2025-02-30,C2783,Coffee Machine,-10.0,,creditcard,
+T78331,2023-01-27,C2741,Laptop,6.0,-174.32347500088156,PayPal ,Completed
+T24379,,C1421,Laptop,514.0,,creditcard,Pending
+T23415,2025-02-30,,Lapt,141.0,526.1733840561146,Credit Card,completed
+T97560,2025-02-30,C1310,Smartphone,5.0,,credit card,
+T22993,2025-02-30,C2715,Smartphone,-5.0,-938.8364041330411,PayPal ,Failed
+T3232,2023-13-01,C2083,Headphones,-3.0,,Cash,Failed
+T41996,2023-13-01,C1748,Smartphone,1.0,864.9869900962535,Credit Card,Pending
+T49188,2024-11-11,C1177,Laptop,6.0,,Cash,Failed
+T22515,2025-02-30,C154,Lap,-5.0,454.2499574218314,credit card,Pending
+T21326,2023-04-05,C3889,Coffee Machine,7.0,168.5424811783196,pay pal,Pending
+T86234,2025-02-30,C1722,Headphones,846.0,,PayPal ,
+T88127,2023-13-01,C4361,Headphones,774.0,,Credit Card,Failed
+T29824,2023-13-01,C2831,Smartphone,342.0,313.395678608134,pay pal,Failed
+T92485,2023-13-01,C278,Headphones,2.0,-269.64219831104333,PayPal,completed
+T68425,,C2158,Coffee Machine,,-189.7251049748328,PayPal,Completed
+T91721,2023-13-01,C2720,Tablet,-8.0,,pay pal,
+T51020,2023-13-01,C1503,Smartphone,504.0,131.40741577578933,PayPal,Failed
+T26754,2020-01-16,C230,L,-5.0,$824.23,Cash,Completed
+T49964,2022-11-22,C4156,Coffee Machine,-9.0,,Credit Card,Pending
+T42732,2025-02-30,C4610,Tablet,4.0,80.89028464575932,PayPal ,complete
+T29057,2025-02-30,,Laptop,-7.0,-553.6109335745324,PayPal,Completed
+T55318,2021-06-18,C1385,Tablet,243.0,,PayPal ,
+T35497,2025-02-30,C196,La,243.0,234.07783936224038,Credit Card,
+T56338,2025-02-30,C4670,Tablet,10.0,,PayPal ,Pending
+T79278,2023-13-01,C123,Smartphone,231.0,802.3500479392585,creditcard,Pending
+T5465,2024-05-19,C1247,Smartphone,-2.0,-559.1372696018076,PayPal ,Failed
+T70156,2023-13-01,C1267,Headph,832.0,-110.26409160789967,creditcard,Completed
+T70670,2022-02-02,C4408,Headphones,6.0,,pay pal,Pending
+T56014,2025-02-30,C2721,Smartphone,508.0,,credit card,Pending
+T12086,2022-10-11,C623,Laptop,537.0,-311.50610632741007,Credit Card,complete
+T56819,2025-02-30,C402,Smartphone,5.0,$-883.44,pay pal,Pending
+T20001,2023-13-01,C2496,Laptop,-8.0,-695.3781942851394,Credit Card,complete
+T69067,2025-02-30,C2819,Coffee Machine,-9.0,,pay pal,completed
+T50453,2021-03-14,C4965,Laptop,326.0,-574.5965119806845,Cash,complete
+T90710,2024-08-07,C2477,Laptop,-3.0,259.53691717809374,PayPal ,
+T52885,2024-07-02,C1437,Coffee Machine,4.0,-794.1486175874403,PayPal,complete
+T30964,2023-13-01,C4101,Smartphone,2.0,$-488.33,pay pal,
+T34574,2023-13-01,C870,Coffee Machine,-6.0,-459.2327576537722,PayPal,completed
+T15295,2025-02-30,C1989,Laptop,586.0,,Cash,Completed
+T27919,2024-04-18,C3242,Headphones,,155.11804022724607,Cash,Pending
+T46121,2023-02-19,C3658,Laptop,6.0,-732.5655900419116,pay pal,Completed
+T35074,2023-07-11,C3409,Tablet,-1.0,-474.2041671186821,pay pal,
+T10551,,C1427,Tablet,-6.0,-302.5133543512742,PayPal ,Completed
+T91128,,C1958,Coffee Machine,10.0,,credit card,Pending
+T0691,2021-10-08,C1483,Headphones,-5.0,-900.7538505528112,Cash,Completed
+T77730,2023-09-16,C2940,Coffee Machine,569.0,-201.57021285567657,pay pal,Completed
+T36097,2023-13-01,C2910,Coffee Machine,485.0,850.9387488675038,PayPal,Pending
+T65352,2025-02-30,C4926,Coffee Machine,866.0,374.7794644304956,PayPal ,Completed
+T11041,2023-13-01,C767,Smartphone,-1.0,,Credit Card,Failed
+T4222,2023-07-25,C551,Laptop,292.0,532.3771856635644,PayPal ,complete
+T0822,2023-13-01,,Headphones,6.0,-284.7561194050436,pay pal,Failed
+T38129,2023-10-31,C2057,Smartphone,-8.0,636.3033537728529,Cash,completed
+T89152,2025-02-30,,Headphones,,667.8208554274896,PayPal ,
+T29232,,C140,Lapt,-9.0,117.21131084825268,PayPal ,Pending
+T50557,2023-13-01,C724,Tablet,2.0,-222.1037150564075,pay pal,completed
+T33685,2022-08-14,C1879,Laptop,-7.0,551.6178572305411,PayPal,complete
+T58754,2025-02-30,C572,Headphones,866.0,,creditcard,Failed
+T27023,,C4330,Smartphone,3.0,-801.5998747780002,pay pal,Completed
+T36906,2022-04-23,C3869,Laptop,5.0,-168.77641674858955,Credit Card,
+T0271,2025-02-30,C2542,Headphones,331.0,,PayPal,complete
+T8867,2025-02-30,C3662,Headphones,767.0,215.53009139035643,PayPal,Completed
+T15007,2020-06-25,C2825,Tablet,109.0,716.1587247610013,credit card,
+T4689,2023-13-01,C351,Laptop,1.0,,credit card,Failed
+T81996,2025-02-30,C2606,Headphones,146.0,-405.48793132546825,creditcard,Failed
+T84373,2025-02-30,C2359,Coffee Machine,692.0,-518.1256725070875,creditcard,Completed
+T2515,2025-02-30,C2839,Laptop,8.0,750.2255201297423,Credit Card,Failed
+T36400,2023-13-01,C238,Smartphone,612.0,453.22309156408824,creditcard,Failed
+T38869,2023-13-01,C384,Tablet,342.0,-663.9897063019343,credit card,complete
+,2022-12-18,C3212,Coffee Machine,976.0,583.0160509720209,PayPal ,completed
+T30410,2025-02-30,C026,Headphones,-7.0,-80.64506775458506,creditcard,completed
+T54795,2020-07-04,C3729,Tablet,615.0,,creditcard,completed
+T19264,2025-02-30,C1696,Coffee Machine,695.0,$96.15,Cash,Completed
+T83910,2025-02-30,C3254,Laptop,8.0,632.2809377840364,credit card,Failed
+T26974,2023-13-01,C1683,Tablet,6.0,118.81146443457317,PayPal,complete
+T7130,2025-02-30,C1812,Smartp,9.0,-63.597862764743695,pay pal,
+T7145,2023-13-01,C1888,Smartphone,-10.0,,creditcard,
+T45466,2023-13-01,C2045,Smartphone,10.0,$890.39,PayPal ,completed
+T1967,2025-02-30,C3955,Tablet,5.0,,PayPal ,Completed
+T15153,2020-01-01,C2165,Smartphone,,,Credit Card,Failed
+T19114,2024-03-29,C4503,Smartphone,170.0,,Cash,Completed
+T76207,2020-08-04,C1553,Smartphone,238.0,,creditcard,Completed
+T32142,2023-13-01,C206,Tablet,-9.0,-680.2356524792679,PayPal ,Failed
+T21935,2025-02-30,C1219,Coffee Machine,594.0,-678.221304698355,Credit Card,Completed
+T40360,2025-02-30,C1994,Tablet,460.0,732.8820649310821,Credit Card,Completed
+T53842,2021-08-18,C3408,Coffee Machine,2.0,,credit card,completed
+T9163,2022-06-06,C088,Laptop,5.0,-967.3082402866165,Credit Card,
+,2024-01-13,C4317,Laptop,863.0,$-860.06,PayPal,Completed
+,2023-13-01,C1623,Laptop,-1.0,,creditcard,
+T83305,2020-07-29,C2821,Tablet,139.0,520.5781923342713,PayPal ,
+T66270,2025-02-30,C1171,Coffee Mach,10.0,,Credit Card,complete
+T34654,2025-02-30,C3730,Tablet,117.0,-549.3809098317752,credit card,Completed
+T41963,2025-02-30,C4032,Laptop,8.0,,PayPal ,Failed
+T39591,,C2063,L,9.0,193.9596239527067,PayPal,completed
+T81036,2025-01-31,C3902,Headphones,788.0,,Credit Card,complete
+T10981,2025-02-30,C4477,Smartphone,506.0,,PayPal,completed
+T56300,2025-02-30,C4145,Coffee Machine,9.0,,credit card,completed
+T61549,2022-11-13,C4268,Tablet,1.0,,PayPal,completed
+T88401,2023-13-01,C4047,Tablet,7.0,-200.31007957628879,creditcard,completed
+,2024-07-06,C325,Headphones,-3.0,265.42873738734306,pay pal,Pending
+T55208,2023-13-01,C4044,Headphones,596.0,,credit card,
+T53528,2022-07-11,C120,Coffee Machine,445.0,813.3170904294763,credit card,complete
+T26971,,C191,Headphones,8.0,,PayPal ,Pending
+T73218,2023-13-01,C2357,Coffee Machine,195.0,711.4411161667703,PayPal ,Pending
+T65891,2020-04-01,C1380,Tablet,-8.0,,credit card,
+T42222,2023-13-01,C4668,Tablet,-4.0,-600.4916993705162,pay pal,completed
+T97866,2023-13-01,,Laptop,431.0,759.793819041715,credit card,complete
+T12251,,C3388,Tablet,-3.0,,PayPal ,Pending
+T69437,2023-13-01,C838,Headphones,698.0,-547.855924847978,Credit Card,Pending
+T38433,2023-13-01,C2087,Laptop,165.0,,creditcard,
+T40890,2023-13-01,C1115,Laptop,684.0,,PayPal ,Pending
+T30999,2022-04-04,C527,T,-8.0,554.3175317815201,Credit Card,Failed
+T56146,2025-02-30,C1800,Coffee Machine,-10.0,,PayPal,completed
+T95414,2023-08-31,C2877,Tablet,115.0,150.76825416706487,creditcard,complete
+T22156,2022-02-23,C4025,Tablet,6.0,-101.19869145146549,Cash,completed
+T17614,2023-13-01,C4168,Headphones,-3.0,452.14550726021184,Credit Card,
+T56444,2022-12-12,C051,Tab,,456.93604847931994,credit card,complete
+T79116,,C665,Smartphone,824.0,,creditcard,Pending
+T24053,2025-02-30,C1055,Tablet,-3.0,,pay pal,complete
+T50243,2023-13-01,C4915,Coffee Machine,8.0,-339.26823685081365,PayPal,complete
+T58999,2025-02-30,C4519,Laptop,229.0,-324.69745282474685,PayPal,completed
+T31345,2023-13-01,C4781,Laptop,6.0,,Credit Card,Failed
+T61242,2022-05-04,C4883,Coffee Machine,567.0,,credit card,Failed
+T92530,2023-13-01,C1042,Laptop,716.0,541.7156374388321,credit card,Failed
+T80829,2025-02-30,C1562,Laptop,3.0,693.7898288067254,Cash,Completed
+T51726,2025-02-30,C1655,Headphones,-2.0,,pay pal,Pending
+T33880,2025-02-30,C3869,Laptop,8.0,,Credit Card,Failed
+T83007,2025-02-30,C3682,Laptop,8.0,,credit card,complete
+T73909,2023-13-01,C105,Headphones,-2.0,,Credit Card,completed
+T67247,2025-02-30,C3313,Coffee Machine,-7.0,246.80249140637423,PayPal ,completed
+T88808,2023-13-01,C2927,Coffee Machine,-8.0,761.7944332171953,Cash,completed
+T13122,2021-02-10,C4154,Tablet,-1.0,-776.1478327401171,credit card,completed
+T8258,2025-02-30,C1032,Coffee Machine,455.0,,Credit Card,
+T93381,,C2530,Coffee Machine,-7.0,-261.3308569326606,credit card,Pending
+,2023-13-01,C2382,Tablet,308.0,,Cash,completed
+T30903,2023-13-01,C3669,Headphones,8.0,,pay pal,Pending
+T72859,2023-13-01,C1074,Headphones,,766.7792302983949,Cash,Completed
+T20293,2025-02-30,C3531,Tablet,-10.0,-796.2364761344725,Credit Card,Failed
+T58171,2023-13-01,C2322,Tablet,,$312.17,Cash,Failed
+T20950,2025-02-30,C1737,Tabl,124.0,129.48524656072686,Cash,
+T36695,2025-02-30,C1399,Laptop,-7.0,-948.7339604661706,PayPal,Pending
+T8526,2022-10-12,C351,Tablet,832.0,279.4186617476996,creditcard,complete
+T78272,2025-02-30,C034,Headphones,-9.0,-82.55839669125328,credit card,Completed
+T77403,2023-13-01,C2052,Tablet,5.0,,Credit Card,complete
+T77652,2023-13-01,C1181,Laptop,391.0,$537.06,PayPal ,Completed
+T99837,2025-02-30,C2889,Headphones,9.0,,Credit Card,Failed
+T92272,2023-06-15,C2111,Coffee Machine,-6.0,-974.9937112794905,credit card,complete
+T29776,2025-02-30,C4347,Smartphone,2.0,412.74448089734557,PayPal ,
+T34808,2025-02-30,C2218,Tablet,2.0,$-558.93,creditcard,
+T16886,2024-09-18,C1740,Tablet,,-373.3132919492723,PayPal,completed
+T49984,,C1899,Smartphone,,-269.6015467391078,credit card,completed
+T62615,2024-08-14,,Smartphone,156.0,390.8817971992302,creditcard,Completed
+T14229,2023-13-01,C4713,Tablet,-3.0,,Credit Card,Failed
+T52177,2025-02-30,C4530,Coffee Machine,122.0,,Cash,
+T8029,2025-02-30,C3766,Smartphone,453.0,642.1180888648552,PayPal ,
+T28922,2025-02-30,C570,Smartphone,911.0,545.1047518623584,Credit Card,Pending
+T69420,2023-10-20,C679,Sm,1.0,,PayPal ,
+T70812,2025-02-30,C4024,Headphones,-5.0,-409.35936783903355,Cash,
+T34364,,C814,Tablet,2.0,99.7385556061347,PayPal,completed
+T43204,2025-02-30,C1282,Tablet,6.0,-286.32605116432376,pay pal,completed
+T36795,2025-02-30,C1569,Headphones,489.0,472.54793669191287,PayPal,complete
+T97027,2023-13-01,C4004,Headphones,3.0,$571.20,PayPal ,complete
+T63343,2025-02-30,,Smartphone,879.0,-209.85924260099262,pay pal,completed
+T36956,2023-08-02,C1458,Smartphone,1.0,,PayPal ,
+T69229,2023-13-01,C254,Tablet,112.0,,credit card,Failed
+T9424,2023-13-01,C4783,Tablet,6.0,$-532.48,Credit Card,complete
+T86001,2020-08-05,C3857,Laptop,-1.0,707.2546247333448,pay pal,Pending
+T16959,2023-01-16,C4999,Cof,4.0,,pay pal,
+T21615,2025-02-30,C2118,Laptop,-3.0,-615.392155310703,PayPal ,
+T81557,2025-02-30,C3846,Coffee Machine,2.0,-700.6692091462023,PayPal,Completed
+T61774,2023-13-01,C1981,Tablet,1.0,-988.673684754186,Cash,complete
+T86802,2020-07-14,C1764,Headphone,324.0,,Cash,completed
+T67503,2023-10-02,C3670,Tablet,7.0,,creditcard,Completed
+T79371,2023-13-01,C449,Tablet,-2.0,,creditcard,completed
+T34497,2024-02-17,C4551,Laptop,-9.0,433.69728308742634,Cash,Completed
+T43009,2021-02-21,C4422,Coffee Machine,-3.0,-179.7462175317969,credit card,
+T91598,2021-06-18,C1600,Headphones,248.0,130.59460709445992,creditcard,Pending
+T75439,2022-09-10,C476,Smartphone,568.0,,PayPal ,Pending
+T29720,2023-13-01,C4624,Headphones,5.0,,Cash,completed
+T38607,2023-13-01,C097,Laptop,-6.0,-482.1149517955381,creditcard,Pending
+T43366,2023-13-01,C012,Coffee Machine,5.0,,PayPal ,complete
+T97088,2022-06-18,C3309,Coffee Machine,10.0,,PayPal,Pending
+T24627,,C4249,Laptop,5.0,-407.67394957329,creditcard,completed
+T61815,2023-13-01,C745,Laptop,811.0,,PayPal ,Completed
+T69756,2023-08-22,C473,Tablet,-3.0,,credit card,Failed
+T11931,2025-02-30,C866,Coffee Machine,493.0,,Cash,complete
+T16161,2025-02-30,C2595,Headphones,-7.0,-432.5132821661541,PayPal,Pending
+T47440,2023-13-01,C4815,Coffee Machine,283.0,,credit card,Pending
+T34606,2022-06-07,C3440,Coffee Machine,-7.0,-389.9602138819587,creditcard,complete
+T14107,2023-13-01,,Coffee Machine,-8.0,57.14193668204224,PayPal,completed
+T90651,2025-02-30,,Headphones,959.0,-650.7841050674369,PayPal ,complete
+T98435,2025-02-30,C3647,Laptop,513.0,,credit card,complete
+T17503,2025-02-30,C2255,Laptop,-4.0,-687.2323562626786,PayPal,Completed
+T63486,2023-13-01,C4471,Smartphone,6.0,-774.6799039267382,creditcard,Pending
+T33076,2023-13-01,C4609,Laptop,-3.0,-111.0657874687654,PayPal ,Pending
+T79809,2023-13-01,C3240,Laptop,985.0,-170.92309331531897,Credit Card,
+T90791,2022-03-22,C3081,Coffee Machine,-3.0,,creditcard,Pending
+T93365,2025-02-30,C2062,Coffee Machine,1000.0,552.7926807667975,pay pal,completed
+T18293,2023-13-01,C3148,Tablet,-10.0,422.41702779503726,pay pal,
+T43850,2021-04-02,C495,Tablet,282.0,-881.6373268629824,PayPal ,
+T35068,2024-09-27,C4642,Laptop,347.0,-580.1780931247488,PayPal,Completed
+T61393,2023-13-01,C3540,Smartphone,10.0,-432.82281754116025,Credit Card,complete
+T27382,2020-08-26,C2897,Coffee Machine,113.0,-668.3538490395606,Credit Card,Completed
+T85414,2025-02-30,,Tablet,,-949.135691666887,pay pal,Failed
+T13798,2020-10-16,C4879,Headphones,461.0,,Cash,Completed
+T1729,2024-03-15,,Tablet,525.0,-948.8458134314916,creditcard,
+T66101,2023-02-07,C4650,Headphones,5.0,-226.6207631905031,PayPal,Failed
+T7678,2024-05-27,C930,Laptop,929.0,-979.1249670243723,Cash,complete
+T73315,2023-13-01,C190,Tablet,-10.0,,pay pal,
+T69696,2025-02-30,C3150,Smartphone,-3.0,,Credit Card,complete
+T5439,2025-02-30,C2057,Laptop,10.0,,credit card,Completed
+T73381,2022-04-08,C2989,Cof,5.0,-824.6035046939865,Credit Card,complete
+T34591,2023-13-01,C702,Headphones,-8.0,852.7770295427314,PayPal,complete
+T8453,2023-13-01,C2138,Headphones,712.0,-958.5225352717783,Cash,
+T6235,2024-09-25,C4494,Tablet,749.0,288.16101758535115,creditcard,completed
+,2020-03-02,C572,Smartphone,-10.0,,PayPal,complete
+T44069,2023-13-01,C933,Coffee Machine,-4.0,$842.09,Cash,Failed
+T73662,2021-10-05,C2773,Laptop,-10.0,679.8419503956545,credit card,complete
+T18242,2025-02-30,C2532,Coffee Machine,5.0,,PayPal ,Pending
+T72560,2023-12-21,C504,Smartphone,-4.0,-86.66155054806381,PayPal,
+T11373,2025-02-30,C4549,Laptop,7.0,485.27955801522893,PayPal,complete
+T53068,2021-08-04,C3889,Coffee Machine,6.0,423.22768484088704,creditcard,Completed
+T54397,2023-13-01,C1061,Coffee Machine,-4.0,-802.0842873035903,PayPal ,Completed
+T60744,2025-02-30,,Laptop,9.0,605.5168352371451,pay pal,Completed
+T4233,2021-09-15,C4455,Headphones,-9.0,,PayPal,
+T66150,2024-03-24,C3817,Headphones,6.0,77.39151793213237,PayPal,
+T0227,2023-13-01,C4300,Laptop,,-150.3078075240669,Credit Card,Failed
+T38051,2023-13-01,C1590,Table,534.0,962.0722072943836,Credit Card,Completed
+T75831,2023-13-01,C4216,Headphones,10.0,$577.39,PayPal ,Completed
+T11713,2025-02-30,C1611,Smartphone,-1.0,-471.9069984369273,credit card,Failed
+T89799,2023-13-01,C4355,Tablet,-10.0,,creditcard,Failed
+T84722,2022-05-13,C3806,Coffee Machine,785.0,,Cash,Failed
+T11651,2025-01-03,C4156,Coffee Machine,253.0,,credit card,completed
+T63793,2025-02-30,C3554,Laptop,341.0,682.1593086164459,pay pal,completed
+T18332,2023-13-01,C631,Table,-7.0,,Cash,Completed
+T59465,,C2293,Laptop,204.0,-372.8496235764694,Cash,
+T31839,2020-05-22,C2778,Smartphone,6.0,,Credit Card,Failed
+T35888,2020-02-11,C3335,Laptop,6.0,,Credit Card,Failed
+T70558,2021-05-13,C4620,Headphones,4.0,-196.47471924040906,PayPal,Pending
+T68842,2023-13-01,C1611,Headphones,854.0,917.7516303160402,credit card,complete
+T44300,2023-13-01,C4141,Smartphone,-8.0,,pay pal,Pending
+T39432,2025-02-30,,Tablet,2.0,485.5376965737546,PayPal,Pending
+T71758,2023-13-01,C3000,Laptop,-3.0,-177.20955822548297,credit card,complete
+T51267,2025-02-30,C2766,Lapto,6.0,,Cash,complete
+T49809,2023-13-01,C1206,Coffee Machi,-10.0,652.9777454574562,creditcard,
+T86689,2025-02-30,,Laptop,-2.0,-493.2493464777417,Credit Card,
+T61005,2023-06-16,C3699,Smartphone,289.0,-506.9788076317012,Credit Card,Completed
+T60771,2023-13-01,C4432,Laptop,-4.0,60.118378730888914,credit card,Completed
+T0088,2025-02-30,C4004,Headphones,9.0,-380.99749854004233,PayPal,complete
+T77204,2025-02-30,C124,Tablet,313.0,662.2379384443303,PayPal,
+T51988,2023-13-01,C1227,Laptop,855.0,-934.1707692403487,PayPal,
+T82150,2025-02-30,C566,Smartphone,343.0,,Cash,
+T43734,,C3414,Coffee Mach,500.0,956.3021893445248,PayPal,
+T95182,2023-13-01,C4776,Laptop,10.0,-122.9560441120966,creditcard,complete
+T88477,2020-07-23,C806,Coffee Machine,-8.0,-754.3039351577814,pay pal,Pending
+T62006,2024-08-23,C2646,Smartphone,-2.0,-658.4126337298612,Cash,complete
+T30884,2023-01-09,C758,Coffee Machine,,$-977.54,credit card,Failed
+T50767,,C4359,Tablet,-1.0,-319.31879434411167,credit card,Failed
+,2025-02-30,C638,Headphones,-4.0,,Cash,complete
+T12751,2025-02-30,C2344,Smartphone,6.0,-679.4238294213385,credit card,Pending
+T36507,2023-13-01,C2066,Smartphone,-7.0,884.5169372204763,PayPal,completed
+T9938,2025-02-30,C1371,Smartphone,-3.0,236.11521017343503,Cash,Failed
+T18374,2023-13-01,C4124,Tablet,7.0,,PayPal,Pending
+,2023-09-02,C3862,Headphones,9.0,364.50343531377894,PayPal ,completed
+T90730,,C998,H,-6.0,79.04699253044024,Cash,completed
+T12397,2023-13-01,C4687,Laptop,-10.0,318.38643913059815,pay pal,Failed
+T94922,,,Laptop,-2.0,,PayPal ,Failed
+T33802,2024-01-05,C3707,Tablet,9.0,-318.69739133790597,Cash,complete
+T1231,,C4521,Coffee Machine,2.0,429.58278697873664,Cash,Completed
+T20335,2023-13-01,C4044,Tablet,-10.0,,Cash,complete
+T78044,,C309,Tablet,-3.0,,credit card,Completed
+T40351,2023-13-01,C1062,Coffee Machine,-8.0,,PayPal ,Completed
+T50863,2025-01-21,C791,Smartphone,-4.0,-457.81107235888885,Cash,complete
+T65410,2023-13-01,C3057,Coffee,-5.0,,creditcard,complete
+T98466,2021-03-05,C4761,Headphones,514.0,,creditcard,Completed
+T83943,2020-09-29,C940,Coffee Machine,-7.0,-747.3260255934454,PayPal,Pending
+T35641,2020-09-11,C3973,Headphones,297.0,,creditcard,complete
+T76610,2022-06-01,C074,Coffee Machine,10.0,,credit card,completed
+T1046,2025-02-30,C4924,Tablet,6.0,,Credit Card,completed
+T97796,2024-11-19,C4111,Headphones,771.0,,Cash,Failed
+T5938,2022-07-23,C758,Smartphone,427.0,,Credit Card,Failed
+T57688,2025-02-30,C2997,Headphones,-2.0,-55.67586583691855,Credit Card,Failed
+T7896,2022-09-01,C406,Laptop,-2.0,,creditcard,complete
+T87485,2024-10-29,C4138,Headph,-3.0,-91.0729838927191,credit card,completed
+T17571,2022-06-01,C3753,Headphones,237.0,462.5039070274047,Cash,Completed
+T53065,2023-13-01,C1765,Smartphone,10.0,109.8768670068898,PayPal ,Pending
+T11142,2023-13-01,C4990,Tablet,931.0,-917.4053770215152,credit card,
+T96937,2022-08-20,C1364,Laptop,3.0,267.0845720607373,PayPal,complete
+T50491,2023-13-01,C034,La,-6.0,-688.9015371711926,Credit Card,Failed
+T33223,2025-01-09,C4586,Coffee Machine,8.0,701.0150083505669,Credit Card,Completed
+T82507,2023-13-01,C3908,La,-9.0,$-341.19,PayPal,completed
+T36297,,C3779,Laptop,-3.0,700.6689752630976,creditcard,completed
+T67925,2021-12-17,C1606,Laptop,4.0,,Credit Card,Pending
+T94405,2024-09-09,C4469,Headphones,,-218.43563637258922,Credit Card,Completed
+T84993,2021-03-20,C4860,Smartphone,10.0,-728.4031718177316,PayPal,Completed
+T62123,2023-13-01,,Coffee Machine,922.0,139.1212784195499,Cash,complete
+T65744,2023-13-01,C4503,Tablet,-4.0,-171.05598948247655,PayPal,
+T40247,2025-02-30,C3453,Coffee Machine,-6.0,,PayPal ,Failed
+T16362,2023-13-01,C1780,Laptop,,-119.1234024393467,credit card,complete
+T55939,,C4518,Tablet,2.0,,Cash,completed
+T28675,2024-12-07,,Smart,1.0,50.19396877561835,Cash,Completed
+T23958,2025-02-30,C2973,Headphones,218.0,429.90948743520596,pay pal,completed
+T7859,2023-13-01,C4537,Headphones,-4.0,611.2144563376576,pay pal,Pending
+T94213,2023-04-01,C3129,Smartphone,-9.0,-704.934676483371,Cash,completed
+T63352,2025-02-30,C304,Laptop,987.0,-946.2629613799863,PayPal ,
+T50199,,C3760,Headphones,-3.0,,PayPal,Pending
+T55239,2025-02-30,C3700,Smartphone,666.0,,creditcard,Pending
+T98341,2023-13-01,C3530,Smartphone,-2.0,,Cash,completed
+T13706,2022-01-13,C3185,Coffee Machine,934.0,499.3116191294668,Credit Card,Completed
+T13580,2023-09-18,C3556,Smartphone,-10.0,-57.93605560121284,creditcard,completed
+T34571,2023-13-01,C2774,Headphones,-7.0,670.1900422841961,Cash,completed
+T93622,2025-02-30,C3590,Sma,,,Credit Card,Completed
+T2105,2025-02-30,C2923,Tablet,-3.0,-852.6626030202351,pay pal,Failed
+T74361,2025-02-30,C3550,Tablet,-9.0,,credit card,Pending
+T85889,2021-04-19,C3592,Tablet,105.0,805.238447333375,Credit Card,complete
+T99907,2023-13-01,C2546,Coffee Machine,805.0,-944.383294683308,PayPal ,Pending
+T56430,,C2061,Coffee Machine,10.0,,Credit Card,
+T86503,2025-02-30,,Tablet,500.0,272.0202988031226,Cash,Completed
+T12470,2023-13-01,C2167,Laptop,9.0,198.2020122193903,Credit Card,completed
+T14779,2024-06-13,C1539,Coffee Machine,8.0,,creditcard,Failed
+T27544,2023-13-01,C3366,Tablet,787.0,,PayPal,Completed
+T97977,2025-02-30,C3282,Smartphone,482.0,$164.62,Credit Card,Completed
+T46123,2023-13-01,C2121,Laptop,104.0,$-706.28,Credit Card,
+T49369,2023-13-01,C1582,Sm,10.0,719.3404491062922,pay pal,completed
+T1333,2020-01-03,C4647,Tablet,8.0,-150.23870023433687,credit card,completed
+T2361,2025-02-30,C4593,Coffee Machine,414.0,-321.5412799237952,PayPal,Failed
+T82418,2025-02-30,C1281,Coffee Machine,1.0,-736.4042939987555,creditcard,completed
+T45149,2025-02-30,C1862,Tablet,419.0,-66.01317212147671,PayPal,Pending
+T7842,2025-02-30,,Laptop,723.0,-646.1178994411694,Cash,Pending
+T86291,2025-02-30,C4702,Tablet,-6.0,-544.359770762859,Credit Card,Pending
+T36035,2023-13-01,C1454,Coffee Machine,6.0,,credit card,completed
+T18146,2025-02-30,C866,Tablet,7.0,709.4531011328934,Credit Card,complete
+T70746,2023-13-01,C2681,Headphones,-6.0,791.9053009053088,PayPal,completed
+T78804,,C1224,Coffee Machine,476.0,,credit card,complete
+,2022-04-17,C1079,Headphones,8.0,,creditcard,Pending
+T52491,2021-11-05,C2556,Coffee Machine,-7.0,,credit card,Failed
+T88895,2025-02-30,C2871,S,452.0,,creditcard,Pending
+T59269,2023-13-01,C2553,Laptop,-2.0,-339.87338589793194,PayPal ,completed
+T19663,2025-02-30,C127,Coffee Machine,7.0,-499.40502430027493,pay pal,Pending
+T49826,2025-02-30,C2239,Tablet,874.0,602.9698388086655,PayPal,Completed
+T1323,2020-08-24,C618,Headphones,-6.0,,credit card,completed
+T37624,2021-11-26,C4660,Headphones,-7.0,493.82226102032075,credit card,Failed
+T20087,2025-02-30,C4311,Laptop,-6.0,,PayPal,
+T88366,,C1959,Laptop,10.0,-837.5291531082958,creditcard,completed
+T92896,2022-01-31,C4351,Smartphone,9.0,-846.8887771135516,creditcard,Failed
+T69588,2023-03-19,C2629,Laptop,5.0,$623.54,credit card,Pending
+,2025-02-30,C2879,Headphones,-1.0,,pay pal,complete
+T39879,2025-02-30,,Headphones,4.0,,Cash,Failed
+T75299,2023-13-01,C762,Smartphone,4.0,-391.9252690709827,credit card,Completed
+T53979,,C2432,Coffee Machine,-3.0,856.2373576814663,pay pal,completed
+T49674,2022-08-16,C2087,Laptop,364.0,$451.19,PayPal,complete
+T75962,2025-02-30,C2897,Tab,,-511.2777520411147,PayPal,complete
+T25356,,C1621,Smartphone,423.0,,Credit Card,complete
+T27734,2023-13-01,,Headphones,7.0,-782.6263388090331,pay pal,Completed
+T18006,2023-13-01,C3027,Smartphone,-7.0,$354.97,credit card,completed
+T22673,2023-13-01,C2918,Tablet,114.0,,Credit Card,Pending
+T50381,2025-02-30,C191,Coffee Machine,-3.0,562.3231893849826,Credit Card,Completed
+T59039,2023-13-01,C4231,Tablet,677.0,557.9155815567788,pay pal,Failed
+T43445,2020-08-19,C1379,Laptop,9.0,-760.176771387796,pay pal,Pending
+T2281,2025-02-30,C1424,Tablet,700.0,-943.1538746041792,Credit Card,Completed
+T77965,2025-02-30,C109,Headphones,204.0,$-791.39,pay pal,completed
+T96126,2025-02-30,C871,Laptop,6.0,-491.83996221595316,Cash,complete
+T77648,2023-13-01,C3765,He,3.0,-703.4047934917932,creditcard,completed
+T31432,2021-03-23,C3508,Lap,-7.0,569.0025545338651,pay pal,complete
+,,C1654,Headphones,3.0,$-482.06,Credit Card,Pending
+T15809,2023-13-01,C1770,Smartphone,,,creditcard,
+T85542,2023-13-01,C3415,Laptop,998.0,779.6646590849298,credit card,Failed
+T15496,2023-13-01,C3843,Headphones,9.0,,Cash,complete
+T77432,2023-07-19,C080,Tablet,-3.0,81.5681850086566,credit card,Pending
+T57937,2025-02-30,C2916,Coffee Machine,1.0,338.1535792799132,Cash,complete
+T18950,2023-13-01,C1796,Smartphone,964.0,,PayPal ,completed
+T22584,2025-02-30,C3995,Smartp,767.0,460.1077467506787,Cash,completed
+T6749,2024-03-09,C2171,Tablet,653.0,498.995307379397,PayPal,Completed
+T80574,,C1158,Smartphone,4.0,-804.8047649699492,Cash,completed
+T53071,2023-13-01,C4879,Smartphone,-5.0,863.2315539124152,pay pal,Pending
+T1403,2023-13-01,C661,Headphones,4.0,,PayPal,Failed
+T37782,2025-02-30,C3918,Coffee Machine,158.0,107.84009107084624,creditcard,Failed
+T64680,2024-12-08,C2423,Smartphone,9.0,422.0426728570759,Credit Card,completed
+T79961,2025-02-30,,Tablet,113.0,-66.26811612414156,PayPal ,complete
+T23788,,C3918,Tablet,,-847.0302322765842,PayPal,
+T30419,2023-02-22,C3690,Coffee Machine,1.0,,pay pal,complete
+T59035,2022-05-13,C4949,Headphones,10.0,,Credit Card,complete
+T20331,,C3745,Laptop,257.0,-466.97413967492207,pay pal,Completed
+T95653,2025-02-30,C1351,Headphones,3.0,,PayPal ,Completed
+T0884,2024-08-24,C2042,Headphones,2.0,,PayPal ,Completed
+T41516,2023-13-01,C4204,Laptop,5.0,66.65993582020813,Cash,Failed
+T14039,2025-02-30,C1170,Laptop,701.0,,pay pal,
+T44970,2023-12-18,C3652,S,9.0,,PayPal ,Failed
+T32866,2025-02-30,C3532,Tablet,5.0,-347.6198729219732,pay pal,Completed
+T79369,2023-13-01,C2155,Laptop,10.0,361.68127949602984,credit card,completed
+T3254,2024-09-04,C841,Smartphone,922.0,765.8673735596567,Credit Card,completed
+T2938,2025-02-30,C3816,Coffee Machine,8.0,,credit card,Pending
+T36839,2023-13-01,,Coffee Machine,741.0,-571.1380865785524,PayPal ,Pending
+T25040,2024-07-17,C419,Tablet,1.0,,Cash,Failed
+T23395,2023-13-01,C1417,Smartphone,241.0,$-113.84,Cash,completed
+T81993,2020-09-04,C1501,Coffe,412.0,,pay pal,completed
+T56294,2021-10-15,C3514,Headphones,471.0,-854.106982943822,Credit Card,Failed
+T1319,2023-06-13,C1557,T,566.0,,credit card,complete
+T95285,2024-07-05,C3152,Laptop,-3.0,777.0149853714656,PayPal ,Failed
+T32593,2025-02-30,C2655,Laptop,4.0,-477.60739382397776,pay pal,complete
+T86254,2022-01-30,C457,Cof,3.0,-305.0294286498214,Credit Card,Completed
+T79995,2023-13-01,C1370,Smartphone,-7.0,-508.3153024857477,credit card,completed
+T63781,2025-02-30,C3519,Smartphone,3.0,997.7668802549113,Credit Card,Failed
+,2024-03-01,C3103,Smartphone,10.0,-500.1717192599828,PayPal ,
+T1350,2025-02-30,C2768,Tablet,415.0,,pay pal,Completed
+T4791,2023-13-01,C2737,Headphones,2.0,,creditcard,
+T96595,2023-13-01,C1953,Headphones,-4.0,,credit card,Pending
+T87445,2025-02-30,C053,Tablet,646.0,-118.60269883243359,PayPal ,Completed
+T87608,2023-06-03,C1404,Head,-6.0,,credit card,
+T84334,2025-02-30,C1500,Coffee Machine,4.0,,PayPal,completed
+T58135,2022-03-30,C880,Laptop,571.0,535.4696587397154,creditcard,complete
+T18635,2023-10-24,C3192,Laptop,2.0,-440.14916136732654,Cash,Pending
+T3394,2025-02-30,C483,Headphones,-8.0,-366.3849550986324,Credit Card,
+T72229,2023-13-01,C1878,S,-2.0,,credit card,
+T37588,2023-13-01,C4521,Headphones,-7.0,,PayPal,Completed
+T11447,2023-13-01,C1023,Tablet,-6.0,-139.06478482536738,creditcard,
+T92169,2025-02-30,C672,Headphones,-4.0,-159.1281564233583,pay pal,completed
+T33055,2023-13-01,C2458,Coffee Machin,496.0,-317.5804965744255,creditcard,completed
+T93269,,C2721,Headphones,-8.0,-402.042408221056,Credit Card,
+T59809,2021-01-13,C1948,Tablet,1.0,,Cash,
+T61578,2023-13-01,C2091,Coffee Machine,892.0,,creditcard,Completed
+T49661,2025-02-30,C4567,Coffee Machine,-9.0,-270.54711971574864,PayPal,Failed
+T11061,2023-13-01,C2386,Headphones,-10.0,-447.71393479201083,Cash,Completed
+T1551,2024-07-27,C4361,Laptop,10.0,417.2736989529272,PayPal ,Completed
+T80751,2025-02-30,C2333,Coffee Machine,218.0,-749.4460098194531,credit card,completed
+T4511,2025-02-30,C3085,Coffee Machine,5.0,$-544.77,Credit Card,Pending
+T26439,2025-02-30,C2296,Tablet,651.0,536.5481540505691,PayPal ,completed
+T86709,2025-02-30,C4384,Tablet,768.0,,credit card,Failed
+T83004,2025-02-30,C2292,Headphones,608.0,,credit card,complete
+T80167,2023-13-01,C057,Tab,,$-720.91,PayPal ,completed
+T48079,2025-02-30,C1277,Coffee M,551.0,883.82692187274,pay pal,
+T16302,2025-02-30,C3235,Headphones,-6.0,,PayPal,Pending
+T17495,2025-02-30,,Coffee Machine,770.0,587.9873793322654,PayPal ,
+T85699,2025-02-30,C265,Laptop,4.0,,creditcard,Completed
+T61706,2025-02-30,C521,Smartphone,1.0,959.184293153522,PayPal ,Completed
+T49149,2025-02-30,C1452,Coff,10.0,595.3004578273329,PayPal ,complete
+T70173,2023-13-01,C1055,Coffee Machine,7.0,$368.07,creditcard,Completed
+T96223,2023-13-01,C2487,Smartphone,590.0,$606.19,Credit Card,Failed
+T52413,2025-02-30,C400,Laptop,-1.0,,PayPal,
+T97494,2023-10-20,C283,Tablet,651.0,,PayPal,completed
+T9094,2021-11-16,C4734,Coffee Machine,,57.7881087648137,creditcard,
+T6268,2024-05-24,C4460,Laptop,454.0,399.2053835289615,PayPal,Completed
+T81824,2021-08-08,C2248,Headphones,10.0,-704.8392639152987,PayPal ,Pending
+T40204,2023-13-01,,Coffee Machine,384.0,675.324640629957,credit card,complete
+T69326,2025-02-30,C814,Laptop,-7.0,,Cash,complete
+T57863,2025-02-30,,Headphone,176.0,$-199.02,credit card,Pending
+T52992,2023-13-01,C3657,Coffee Ma,5.0,992.1260570229044,Cash,
+T89246,2025-02-30,C2367,Laptop,-1.0,694.4487600163815,pay pal,Pending
+T26874,2025-02-30,C701,Tablet,1.0,-708.6059779923479,creditcard,Pending
+T62597,2023-13-01,C1586,Laptop,-6.0,,Credit Card,completed
+T47746,2023-13-01,C1408,Tablet,2.0,,credit card,complete
+T40991,2022-09-28,C2993,Tablet,633.0,,creditcard,complete
+T13929,,,Coffee Machine,9.0,,pay pal,Pending
+T94954,2023-13-01,C4386,Smartphone,963.0,-676.1895955270819,PayPal,
+T18743,2024-07-12,C1871,Coffee Machine,861.0,$287.11,pay pal,Pending
+T1058,2020-10-03,C3055,Smartphone,-6.0,,Credit Card,Pending
+T4338,2023-13-01,C071,Headphones,136.0,,PayPal,
+T34171,2022-09-03,C1319,Laptop,2.0,299.1395203633541,PayPal ,Completed
+T96506,,C4654,Sma,397.0,678.3353651029868,creditcard,complete
+T2030,2023-13-01,C1343,Coffee Machine,649.0,,Credit Card,complete
+T1431,2025-02-30,C051,Tablet,906.0,87.73718342418974,creditcard,completed
+T35084,2025-02-30,C923,Coffee Machine,-8.0,-958.0813704510332,pay pal,Pending
+T33932,2023-13-01,C4236,Tablet,-10.0,$875.11,Cash,Pending
+T55376,2025-02-30,C3188,Headphones,-2.0,-244.3337659884695,creditcard,
+T22825,2023-13-01,C2650,Headphones,10.0,,PayPal,Failed
+T73647,2025-02-30,C1577,Coffee Machine,,-486.9970484124764,pay pal,complete
+T25270,2020-02-04,,Coffee Machine,491.0,265.0600044698652,PayPal,Pending
+T64035,,C1819,Coffee Machine,-10.0,-661.2884602873276,creditcard,completed
+T14806,2023-13-01,C4450,Coffee Machine,706.0,626.0289838601337,credit card,
+T60298,2025-02-30,C2034,Coffee,4.0,,pay pal,
+T50079,2025-02-30,C3194,Smartphone,233.0,,credit card,
+,2025-02-30,C2547,Tablet,1.0,832.0181328576693,Credit Card,Failed
+T0586,2023-13-01,C213,Smartphone,-10.0,,Cash,complete
+T36905,2023-03-06,C3563,Smartphone,-9.0,,PayPal ,complete
+T21333,2025-02-30,C038,Tablet,-10.0,303.78473803894116,Cash,Pending
+T39457,2025-02-30,C4310,Laptop,-3.0,,creditcard,complete
+T12534,2022-05-08,C135,Headphones,-7.0,654.1980009504077,PayPal,Completed
+T40816,2025-02-30,C4360,Headphones,690.0,,PayPal,Pending
+T68317,2023-13-01,C3057,Headphones,-2.0,-397.961259113084,PayPal,Failed
+T42918,2023-13-01,C2416,Laptop,-3.0,-198.0741221751466,PayPal,Failed
+T5216,2023-13-01,C1865,Headphones,-7.0,-735.6317762928334,PayPal,
+T83013,2024-04-07,C3665,Coffee Machine,-1.0,421.0564359617412,Credit Card,Failed
+T40200,2023-01-23,C2648,Headphones,-8.0,,Credit Card,Completed
+T64274,2025-02-30,C4882,Headphones,-9.0,469.3236738268576,PayPal,
+,2025-02-30,C2686,Tablet,353.0,,Credit Card,complete
+T0834,2023-03-18,C3015,Tablet,-2.0,637.5026061371781,Credit Card,Completed
+T41273,2023-13-01,C505,Tablet,101.0,,credit card,completed
+T79343,,C3138,Laptop,8.0,-202.6437696041263,pay pal,Failed
+T35016,2025-02-30,C1408,Laptop,5.0,-218.25429069908967,PayPal,Completed
+T66703,2023-10-09,C3733,Tablet,4.0,,Cash,Failed
+T65644,2023-10-18,C2362,Tablet,603.0,179.2877751120009,creditcard,Completed
+T18486,2023-12-21,C2032,Coffee Machine,-1.0,$-875.86,PayPal,Pending
+T33334,2023-13-01,C4289,Smartphone,325.0,742.1158998567641,Cash,
+T13552,2023-13-01,C257,Table,173.0,738.1010455673929,PayPal,completed
+T95261,2025-02-30,C2299,Lapt,-2.0,,creditcard,Pending
+T17673,2023-13-01,C115,Laptop,2.0,,PayPal,complete
+T23146,2025-02-30,C217,Smartphone,-3.0,840.8755667267886,credit card,completed
+T61130,2023-13-01,C2959,Headphones,592.0,-788.882616381567,credit card,complete
+T69841,2023-13-01,C4975,Tablet,9.0,338.28798717338185,creditcard,
+T96987,2025-02-30,,Head,9.0,114.51206116539359,PayPal ,completed
+T35754,,C4804,Headphones,9.0,435.34607061059074,pay pal,Pending
+T33460,2020-01-02,C4155,Smartphone,2.0,,pay pal,
+T14269,2020-05-26,C911,Smartphone,509.0,,PayPal ,completed
+T22187,2023-13-01,C2837,Laptop,292.0,-664.1396251218423,pay pal,
+T15023,2022-05-23,C1693,Tablet,6.0,292.51777243406065,Credit Card,completed
+T11969,2023-13-01,C4929,Headphones,918.0,-683.3303534211963,pay pal,Pending
+T28566,2022-01-18,C1940,Coffee Machine,-1.0,-568.25450168376,Credit Card,Failed
+T25842,2025-02-30,C4915,Headphones,-1.0,59.19237949297363,Credit Card,Failed
+T0279,2023-13-01,C294,Tablet,7.0,68.68419953659067,creditcard,Pending
+T76183,2025-02-30,C2547,Head,-3.0,-342.28703745798146,PayPal,Completed
+T6149,2023-13-01,C4660,Tablet,2.0,,PayPal ,Failed
+T61297,2023-13-01,C3824,Smartphone,-2.0,-88.77585916564817,creditcard,Failed
+T77960,2023-13-01,C2651,Coffee Machine,5.0,-297.45806184976425,creditcard,Failed
+T14150,2021-08-15,C2347,Smartphone,-3.0,,Cash,completed
+T47140,2020-12-16,C2406,Tablet,,816.310916883093,pay pal,completed
+T29518,2021-02-19,C2376,Tabl,948.0,398.9936205893075,PayPal ,
+T10050,,C2836,Headphones,321.0,104.82399428800915,credit card,completed
+T30603,2025-02-30,C3908,Tablet,-7.0,,creditcard,Completed
+,2025-02-30,C650,He,548.0,-242.10471558105405,creditcard,Failed
+,2020-06-09,C3111,Laptop,4.0,,PayPal ,Pending
+T34287,,C1557,Coffee Machine,,$-586.43,PayPal,complete
+T59397,2022-10-11,C3587,Tablet,813.0,-173.85839335101934,creditcard,Failed
+T38721,2023-13-01,C3556,Headphones,-6.0,-187.31464148014152,Cash,Pending
+T31121,2022-07-10,C1209,Headphones,319.0,,PayPal,completed
+T46500,2023-13-01,C4977,Headphones,734.0,-284.3699684909525,Cash,Pending
+T31419,2023-13-01,C3125,Laptop,-4.0,-135.37344138438982,Credit Card,complete
+T1573,2025-02-30,C1902,Headphones,-4.0,-958.4114048441354,creditcard,
+T78057,2023-13-01,,Smartphone,-10.0,,Credit Card,Failed
+,2025-02-30,C931,Laptop,507.0,-939.2565484082744,pay pal,complete
+T27806,2023-13-01,C2207,Tablet,3.0,741.9993853877181,Cash,Pending
+T96811,2023-11-27,C3663,Tablet,-6.0,332.79346959551737,credit card,Pending
+T97650,2021-11-07,C3507,Coffee Machine,731.0,-52.19837716618315,Credit Card,Pending
+T15843,2025-02-30,C787,Smartphone,8.0,,Credit Card,complete
+T52853,2025-02-30,C3287,Headphones,10.0,,credit card,Failed
+T50138,2023-13-01,C4439,Coffee Machine,-4.0,-305.972420270576,PayPal,Failed
+T27538,2023-13-01,C1566,Coffee Machine,904.0,,PayPal ,Failed
+T11856,2022-07-13,C3952,Tablet,4.0,,credit card,completed
+T41094,2025-02-30,C748,Laptop,-7.0,822.0792763247351,Credit Card,Failed
+T40942,2022-02-20,C2951,Tablet,-10.0,-975.2654652854197,credit card,
+T78213,2023-12-03,C4175,Coffee Machine,710.0,,creditcard,
+T70852,2025-02-30,C1757,Coffee M,-4.0,375.13638147472375,PayPal ,Completed
+T85907,2023-13-01,,Tablet,-1.0,-827.6598646627646,pay pal,Failed
+T70227,2023-06-19,C557,Smartphone,7.0,$-640.10,Credit Card,
+T17248,2020-12-04,C3510,Tablet,-4.0,-841.8284502337025,PayPal,Completed
+T91331,2023-13-01,C252,Coffee Machine,,,pay pal,complete
+T74412,2023-13-01,C3623,Headphones,179.0,876.4020071393928,credit card,completed
+T13736,2025-02-30,C2095,Smartphone,244.0,,PayPal,
+T75534,2023-13-01,C2161,Laptop,,-959.33841618897,Cash,Pending
+T19779,,C1081,Laptop,7.0,,Cash,complete
+T8094,2023-13-01,C2943,Headphones,114.0,,pay pal,Failed
+T92534,2025-02-30,C4779,Coffee Machine,3.0,,credit card,completed
+T82193,2025-02-30,C2196,La,-6.0,575.5030108685232,PayPal,Pending
+T67484,2023-13-01,C335,Smartphone,332.0,440.67629355953454,pay pal,Failed
+T46678,2023-13-01,C3096,Coffee Machine,471.0,763.9221917781291,Credit Card,complete
+T74258,2025-02-30,C3580,Tablet,616.0,363.83541580180975,creditcard,complete
+T54569,2025-02-30,C3359,Smartphone,346.0,365.7694819810178,pay pal,Pending
+T61461,2025-02-30,C3485,Tablet,9.0,,credit card,Pending
+T31022,2025-02-30,C3994,Smartphon,667.0,$-266.98,Cash,completed
+T2130,2023-13-01,C404,Coffee Machine,-8.0,$256.72,creditcard,Failed
+T95185,2023-13-01,C797,Tablet,891.0,-56.53463916132148,creditcard,
+T11864,2023-13-01,C1458,Tablet,197.0,515.0128747076196,pay pal,Failed
+T55043,2025-02-30,C2672,Tablet,,-143.0994051794902,PayPal ,
+,2023-13-01,C2779,Coffee Machine,-9.0,189.03884599107673,PayPal ,Completed
+T52151,2025-02-30,C4215,Tablet,925.0,,pay pal,Failed
+T9162,2025-02-30,C1253,Laptop,472.0,868.4948516359988,credit card,complete
+T42666,2022-08-20,C2429,Tablet,5.0,657.2170550582707,credit card,Completed
+,2023-13-01,C4815,Coffee Machine,964.0,-756.5958860824643,Credit Card,Failed
+T2181,2025-02-30,,Headphones,,570.0278229816928,credit card,completed
+T67359,2025-02-30,C2821,Coffee Machine,549.0,-486.55213055908985,credit card,Completed
+T9601,2023-13-01,C2055,Smart,503.0,-141.8608262882202,Cash,complete
+T35737,2023-13-01,C1629,Tablet,-3.0,368.68095533246606,credit card,Failed
+T30465,2025-02-30,C4022,Smartphone,5.0,$-965.84,PayPal,complete
+T10572,2021-01-19,C2724,Smartphone,728.0,-93.827225712781,creditcard,completed
+T85767,2025-02-30,C254,Laptop,8.0,,creditcard,Pending
+T6176,2024-08-11,C1989,Headphones,10.0,346.46659132903676,Credit Card,completed
+T31197,2025-02-30,C2431,Tablet,266.0,-429.05077120401495,creditcard,Failed
+T77458,2025-02-30,C2917,Coffee Machine,-3.0,567.2824873573938,PayPal,
+T1222,2023-13-01,C048,Head,4.0,664.4885622525882,Credit Card,
+T74449,2023-13-01,C3188,Headphones,-5.0,-497.7899393248024,PayPal ,Completed
+T37038,2023-13-01,C108,Tablet,-7.0,612.9440693634647,pay pal,Completed
+T16291,,C1095,Tablet,230.0,,creditcard,Completed
+T25453,2025-02-30,C1112,Laptop,1.0,,Credit Card,completed
+T33563,2023-13-01,C2440,Tablet,805.0,-730.5872270632889,Cash,Failed
+T0656,2025-02-30,C1574,Headphones,443.0,-200.60163772521605,pay pal,complete
+,2020-07-25,C1127,Smartphone,10.0,366.88078660035455,credit card,complete
+T64833,2021-06-03,C3420,Tablet,966.0,-528.7095453328645,creditcard,Pending
+,,C3399,Headphones,550.0,498.55467890937166,pay pal,Failed
+T50195,2023-13-01,C264,Laptop,-9.0,-449.839437775184,PayPal ,complete
+T64798,2021-10-25,C1844,Tablet,398.0,-780.0974666317904,Cash,Completed
+T34273,2023-13-01,C974,Smartph,,,PayPal ,
+T4051,2025-02-30,C271,Laptop,3.0,-75.54598982020343,creditcard,completed
+T87072,2023-13-01,C990,Smartphone,-9.0,,Cash,complete
+T81773,2025-02-30,C4218,Laptop,-4.0,,creditcard,Pending
+T70997,2021-05-23,C2478,Headphones,9.0,212.10701358870713,PayPal ,Failed
+T4368,2025-02-30,C293,Smartphone,887.0,,Credit Card,Pending
+T56346,2020-10-30,,Smartphone,-6.0,288.78174141093433,Cash,Pending
+T45918,2025-02-30,C1069,Smartphone,399.0,-673.1279893989206,pay pal,Completed
+T46369,2023-13-01,C164,Smartphone,-4.0,,PayPal,complete
+T90890,2021-10-22,C1523,Lapt,3.0,$519.57,PayPal,completed
+T5074,2025-02-30,C1957,Headphones,-2.0,862.0651268449519,Credit Card,
+T35991,2023-09-18,C3820,Coffee Machine,774.0,-429.3131352562059,PayPal ,Pending
+T10502,2023-13-01,C3753,Tablet,-10.0,-173.06725408108605,creditcard,completed
+T55930,2022-03-14,C4884,Headphone,275.0,,Credit Card,Completed
+T11015,2023-13-01,C644,Tablet,516.0,57.426766420645,Cash,Completed
+T80128,2025-02-30,C833,Coffee Machine,1.0,,PayPal ,Failed
+T40039,2023-13-01,C3641,Laptop,,,Credit Card,Failed
+T69576,2023-13-01,,Smartphone,156.0,550.0811399750241,PayPal,complete
+T8787,2023-13-01,C1025,Headphones,536.0,,Cash,Pending
+T60719,2024-11-13,C977,Tablet,842.0,583.2884387713458,PayPal,complete
+T55432,2020-07-16,C2183,S,186.0,,pay pal,Pending
+T95341,2023-13-01,C273,Tablet,-10.0,-357.89361328405823,PayPal ,Pending
+T19213,2025-02-30,C3157,Tablet,-4.0,,pay pal,
+T94482,2025-02-30,C2230,Coffee Machine,-6.0,,PayPal,completed
+T41047,2023-13-01,C866,Coffee Machine,,,PayPal ,
+,2025-02-30,C1780,Headphones,10.0,,Cash,Completed
+T90092,2023-13-01,C772,Coffee Machine,8.0,-185.18230462173415,creditcard,
+T58117,2023-09-25,C3788,Tab,-4.0,-398.16679532196133,PayPal,completed
+T22507,2025-02-30,C767,Smartphone,-8.0,-221.2391192923984,PayPal,Pending
+T17920,2022-02-02,C1753,Smartphone,671.0,-473.214049616092,creditcard,
+T96635,,C454,Tablet,-2.0,$131.45,PayPal ,completed
+T8570,2023-13-01,C1559,Laptop,915.0,,Credit Card,
+T88174,2025-02-30,C4099,Tablet,-5.0,252.07878406920332,Credit Card,Completed
+T45795,2023-13-01,C3843,Headphones,4.0,,credit card,complete
+T73839,,C1957,Headphones,339.0,443.8751832410937,PayPal ,complete
+T15461,2025-02-30,C4385,He,-9.0,,PayPal,Pending
+T8312,2025-02-30,C2779,Headpho,254.0,-187.46262570671513,pay pal,Completed
+T64112,2025-02-30,C1495,Headphones,5.0,-430.0502596753332,credit card,Pending
+T9661,2023-13-01,C484,Smartphone,970.0,964.2537884270323,creditcard,complete
+T0857,2023-13-01,C2080,Tablet,3.0,,PayPal ,
+T57420,2024-10-19,C2728,Tablet,2.0,,creditcard,complete
+T40012,2023-13-01,C1433,Laptop,-8.0,,PayPal ,Completed
+T21178,2025-02-30,C2278,Tablet,331.0,-288.23963793908365,credit card,Pending
+T85575,2023-13-01,C2452,Tablet,1.0,519.6562882318938,pay pal,Failed
+T22154,2023-13-01,,Tablet,-3.0,-192.5452587813935,creditcard,Pending
+T66030,,C2966,Laptop,333.0,705.7650618231214,credit card,Failed
+T11469,2023-13-01,C1789,Smartphone,632.0,-622.7945764600586,PayPal,Failed
+T65982,2025-02-30,C2323,Coffee Machin,-9.0,$646.28,PayPal,
+T37238,2023-13-01,C1327,Laptop,-5.0,-567.7400822382147,pay pal,complete
+T72376,2025-02-30,C3208,Laptop,600.0,272.19542465212555,Credit Card,Completed
+T83143,2025-02-30,C4725,Laptop,2.0,827.0636523740858,pay pal,Completed
+T20283,2023-13-01,C1064,Laptop,10.0,875.8738483196304,Cash,
+T12388,2023-13-01,C2245,Coffee Machine,146.0,$-424.55,Credit Card,complete
+,2023-01-13,C453,Coffee Machine,926.0,-672.6186829734897,PayPal ,
+T78789,2023-13-01,C2526,Tablet,336.0,817.337686050973,pay pal,completed
+T69418,2023-12-15,C794,Coffee Machine,6.0,-516.1818832743661,Cash,
+T10900,2025-02-30,C2216,Tablet,1.0,60.64321477322855,Credit Card,Pending
+T22740,2023-13-01,C2566,Tablet,861.0,$-987.59,PayPal ,completed
+,2025-02-30,C488,Tablet,2.0,$233.08,Credit Card,complete
+T30953,2025-02-30,C2945,Coffee Machin,3.0,504.10361073301124,Credit Card,Completed
+T56835,2023-13-01,C3229,Lap,2.0,$-782.57,Cash,Pending
+T38936,2023-06-02,C3826,Tablet,109.0,,credit card,Completed
+T32201,2023-13-01,C4197,Laptop,740.0,,pay pal,Completed
+T68845,2025-02-30,C2314,Headpho,846.0,-926.2534261024553,PayPal ,Failed
+T45692,2023-13-01,C2448,Coffee Machine,274.0,652.4833616466927,PayPal ,Failed
+T72020,2025-02-30,C4208,Coffee ,-8.0,-408.3940988417768,PayPal,Failed
+T80648,2020-06-01,C1720,Coffee Machine,,,pay pal,completed
+T20428,2025-02-30,C2824,Coffee Machine,-6.0,116.6784827050397,PayPal,complete
+T11896,2020-05-29,C1052,Tablet,-7.0,-772.8896677284217,Credit Card,completed
+T4625,2023-13-01,C1214,Coffee Machine,3.0,-533.8316734268462,pay pal,Completed
+T29506,2020-05-30,C1660,La,743.0,$-751.03,pay pal,completed
+T12561,2022-06-22,C3845,Smartphone,6.0,-332.97547463923195,creditcard,
+T38943,2025-02-30,C302,Coffee Machine,-5.0,,PayPal ,
+T69606,2025-02-30,C3578,Tablet,,178.2900372711011,credit card,completed
+T0574,2023-13-01,C672,Laptop,3.0,918.3616398946692,Credit Card,Failed
+T84866,2023-13-01,C1046,Tablet,,277.0606894670444,creditcard,Failed
+,2025-02-30,C2279,Tablet,681.0,448.057317091586,Cash,Pending
+T74337,,C2265,Smartphone,,,Cash,complete
+T86885,,C3145,Smartphone,-10.0,,creditcard,complete
+T36239,2024-04-16,C4004,Headphones,632.0,583.1673095612252,pay pal,completed
+T50283,2024-01-23,C243,Coffee Machine,294.0,-702.1551822828278,pay pal,completed
+T7749,2025-02-30,C980,Smartphone,557.0,,PayPal,
+T45120,2025-02-30,C3519,Headphones,7.0,773.3229658932181,Credit Card,completed
+T99912,2023-02-14,,Headphones,-2.0,98.05018719630868,Cash,Failed
+T73382,2023-13-01,C995,Laptop,4.0,991.7296690211685,pay pal,
+T60894,2023-13-01,C3866,Laptop,-8.0,-380.14612626046517,pay pal,completed
+T76179,2025-01-08,C237,Laptop,-4.0,,pay pal,
+T79844,2025-02-30,C3304,Tablet,-7.0,,Cash,Completed
+T86324,2023-13-01,C927,Tablet,-4.0,$-920.05,pay pal,completed
+T98518,2023-13-01,C4074,Smartphone,,-418.14226779841624,Cash,completed
+T76930,2025-02-30,C419,Coffee Machine,300.0,709.7595255784905,credit card,complete
+T17962,2025-02-30,C4732,Coffee Machine,502.0,-822.2125449899835,PayPal,Pending
+T64846,2023-13-01,C3817,Smartphone,-4.0,,PayPal ,completed
+T28287,2025-02-30,C4414,Coffee Machine,481.0,-367.2356198811084,Cash,
+T16731,2024-02-22,C3060,Coffee Machine,838.0,557.4808407610191,credit card,completed
+,2022-01-14,C911,Smartphone,8.0,378.23747774522894,creditcard,complete
+T81582,2025-02-30,C627,Smartphone,-7.0,-284.95762079516,credit card,completed
+T2743,2025-02-30,,Tablet,791.0,,creditcard,Completed
+T91840,2023-13-01,C1179,Smartphone,249.0,-278.139484129017,PayPal ,Pending
+T51277,2025-02-30,C3795,Headphones,107.0,,pay pal,
+T10818,,C3031,S,-9.0,-51.5662825007131,PayPal ,completed
+T13414,2023-13-01,C480,Smartphone,828.0,-720.9913756089184,Credit Card,completed
+T4646,2022-04-19,C694,Lap,-2.0,-595.9262747074408,Cash,
+T24831,2023-13-01,C829,Headphones,3.0,-804.8606045638936,credit card,Pending
+T51478,2020-05-07,C2968,Tablet,-7.0,795.9841613408482,PayPal,Failed
+T60477,2021-03-10,C3484,Headphones,349.0,609.6784712677121,PayPal ,completed
+T9888,2021-07-22,C2371,Headphones,4.0,-467.0405972426238,PayPal,completed
+T77007,2023-03-18,C3493,Headphones,736.0,892.59905887831,Credit Card,complete
+T80596,2020-12-03,C2295,Tablet,5.0,-850.6483265908341,credit card,Completed
+T72762,2023-13-01,C055,Coffee Machine,-4.0,90.26418251943721,Cash,Failed
+T97107,2025-02-30,C1831,Coffee Machine,3.0,,Cash,completed
+T53570,2025-02-30,C2727,Headphones,4.0,-122.62802111696294,pay pal,Completed
+T15627,2023-13-01,C4791,Tablet,455.0,410.30193224222467,creditcard,Failed
+T98423,,C4932,Laptop,-7.0,345.8194403899881,PayPal ,complete
+T38862,2023-08-07,C4444,Laptop,536.0,,PayPal,completed
+T24548,2024-09-17,C3147,Smartphone,933.0,$-433.54,Credit Card,completed
+T78204,2025-02-30,C2123,Headphones,-8.0,859.611237652812,creditcard,
+T44525,2023-08-10,C2215,Tablet,609.0,,Cash,Pending
+T0929,2023-13-01,C1267,Headphones,150.0,597.8145461208142,creditcard,Failed
+T30573,2025-02-30,C2323,Headphones,-1.0,,PayPal ,completed
+T2175,,C1255,Coffee Machine,,-625.8671823703359,PayPal ,
+T63408,2023-13-01,C1688,Headphones,324.0,-200.1580251445488,creditcard,
+T15467,2023-13-01,C3653,Tablet,-8.0,,credit card,Completed
+T21288,2022-06-13,C1312,Coffee Machine,-1.0,81.19618717285196,Credit Card,Completed
+T68792,2021-10-02,C4621,Headphones,-10.0,885.8984772625299,credit card,Failed
+T64131,2025-02-30,C2627,Laptop,358.0,-96.91682329935475,Cash,Pending
+T42631,2025-02-30,,Coffee Machine,-2.0,-509.66575424821787,PayPal,completed
+T48460,2023-11-21,C4598,Tablet,690.0,-525.2173342239189,creditcard,Failed
+T8286,,C783,Laptop,8.0,566.8127413740569,creditcard,
+T56545,,C3545,Smartphone,-4.0,-584.2271626564466,Cash,
+T36138,2022-06-20,C936,Headph,,394.5073705399552,Credit Card,completed
+T73918,2023-01-20,C4913,Tablet,-6.0,-435.21514027308444,Credit Card,Failed
+T56098,2021-07-30,C3012,Coffee Machine,317.0,806.7316308045558,Credit Card,Completed
+T25637,2023-13-01,C4388,Laptop,993.0,,credit card,Completed
+T59976,,C3763,Headphones,-7.0,-868.9164294109889,PayPal ,
+T63100,2025-02-30,C537,Headphones,5.0,,creditcard,complete
+T56513,2020-01-26,C303,Tablet,-5.0,-318.55693555627647,credit card,Pending
+,2023-05-02,C4010,Smartphone,-8.0,415.93141719896926,creditcard,Pending
+T1987,2023-13-01,C401,Headphones,888.0,-119.93103892524732,Credit Card,Pending
+T60420,,C3522,Tablet,-10.0,852.3349426649119,pay pal,Completed
+T53043,2025-02-30,C3090,Headphones,-5.0,$796.67,credit card,Completed
+T92131,2023-13-01,C598,Tablet,-2.0,,creditcard,Failed
+T62661,2023-13-01,C4897,Tablet,,525.327369489619,credit card,complete
+T63156,2025-02-30,C2219,Smartphone,471.0,-839.4927631988988,creditcard,Pending
+T12043,2025-02-30,C1782,Headphones,-1.0,,Cash,completed
+T49784,2023-12-29,C4418,Laptop,581.0,,PayPal ,completed
+T76815,2023-13-01,C4041,Headpho,-6.0,$-794.36,Cash,
+T15395,2025-02-30,C3617,Smartphone,900.0,293.08696134285685,credit card,Completed
+T73797,,C2663,Tablet,-1.0,-875.0374172929542,PayPal ,Completed
+T50179,2024-08-31,C2219,Ta,,,PayPal,complete
+T94485,2023-13-01,C4020,Laptop,106.0,73.35586385037817,pay pal,completed
+T0115,2023-13-01,C4022,Headphones,,-261.14199297362666,pay pal,Pending
+T60900,2023-01-02,C1226,Laptop,-4.0,,Cash,
+T59781,2025-02-30,C1218,Laptop,2.0,,PayPal,complete
+T62200,2025-02-30,C3834,T,347.0,,PayPal,Pending
+T76634,2025-02-30,C1707,T,9.0,,pay pal,Completed
+T37379,2025-02-30,C4704,Smartphone,2.0,-216.87007426877756,credit card,
+T6730,2023-13-01,C3799,Coffee Machine,-2.0,,credit card,Completed
+T5905,2023-13-01,C068,Tablet,-8.0,,PayPal ,complete
+T65967,2023-07-06,C4254,Smartphone,-8.0,$183.86,pay pal,
+T14530,2025-02-30,C4182,Tablet,240.0,804.3574686858799,creditcard,completed
+T65586,2025-02-30,C3453,Tablet,-9.0,695.7876410096238,Credit Card,Failed
+T7336,2023-12-15,C1917,Headphones,7.0,,Credit Card,completed
+T88468,2023-13-01,,Tablet,-7.0,-385.7610943586259,Credit Card,Pending
+T38224,2023-13-01,C657,Coffee Machine,989.0,129.4133513464086,credit card,Failed
+T58175,2023-13-01,C1091,Laptop,10.0,$-200.59,Cash,completed
+T89551,2020-01-13,C563,Coffee Machine,-3.0,,Credit Card,Completed
+T4163,2025-02-30,C1019,Tablet,5.0,-703.8134716532427,credit card,complete
+T38540,2025-02-30,C4979,Smartphone,-10.0,,Cash,Completed
+T69510,2025-02-30,C2070,Laptop,-7.0,-144.37308954884531,pay pal,Completed
+T33889,2023-13-01,C2373,Laptop,4.0,,PayPal ,Pending
+T38622,,,Laptop,907.0,$-62.32,Cash,
+T96588,2025-02-30,C268,Coffee Machine,-10.0,-934.5869633578618,credit card,completed
+T10619,2023-13-01,C256,Tablet,10.0,,PayPal ,complete
+T38358,2025-02-30,C3005,Sma,631.0,-412.88642417738595,credit card,Failed
+T42506,2025-02-30,C3976,Smartphone,,-104.71215787980566,PayPal,completed
+T32808,2023-13-01,C4727,Coffee Machine,-6.0,607.6206420467399,Credit Card,complete
+T56781,2023-13-01,C1569,Smartphone,9.0,,pay pal,complete
+T40369,2021-12-20,C4335,Laptop,-3.0,-220.31211124321885,creditcard,Failed
+T32387,2023-13-01,C4520,Coffee Machine,818.0,,pay pal,complete
+T17774,2025-02-30,C505,Smartphone,,-316.80162883457297,PayPal,Completed
+T61122,2025-02-30,C1259,Smartphone,286.0,-758.761578373786,credit card,completed
+T17973,2021-08-05,C262,Tablet,295.0,,creditcard,Failed
+T64305,2025-02-30,C425,Tablet,420.0,569.2096598240988,Cash,Completed
+T69596,2025-02-30,C1336,Tablet,240.0,-139.4841230115892,credit card,
+T85583,2025-02-30,C2667,Headphones,894.0,,creditcard,complete
+,2023-12-11,C3855,Headphones,,$-838.21,Cash,completed
+T34607,2023-13-01,C2023,Tablet,935.0,-257.017847406647,creditcard,complete
+,2025-02-30,C1424,Tablet,8.0,$322.39,credit card,Completed
+T32072,2025-02-30,C4631,Coffee Machine,-5.0,248.53213358207285,credit card,Pending
+T5170,2023-12-31,C3568,Headphones,-1.0,212.28172790324865,credit card,
+T70610,2022-10-01,C1776,Smartphone,6.0,885.4506726355634,PayPal ,Completed
+T11318,2025-02-30,C2921,Laptop,577.0,$544.43,PayPal,Failed
+T42991,,C804,Smartphone,-5.0,$299.14,pay pal,Pending
+T79977,2023-13-01,C1394,Smartphone,9.0,,pay pal,complete
+T60107,2025-02-30,C1723,Headphones,957.0,,pay pal,completed
+T67710,2021-01-17,C1848,Laptop,9.0,,PayPal,Failed
+T43943,2023-13-01,C2887,Smartphone,351.0,-408.50930639909234,PayPal ,Failed
+T44018,2021-07-03,C116,Headphones,-2.0,-830.3027917843034,creditcard,
+T62413,,C2182,Laptop,8.0,,Cash,Completed
+T27785,2025-02-30,C4054,Coffee Machine,-9.0,-558.2201470094703,PayPal,Pending
+T21660,2023-13-01,C1963,Coff,-6.0,311.9266223528668,Cash,
+T31376,2025-02-30,C3402,Tablet,818.0,,PayPal ,completed
+T82861,2021-08-06,C3010,Headphones,-10.0,-693.0047627422932,PayPal,
+T13344,2021-09-04,C1104,Laptop,630.0,75.1009353662556,Credit Card,
+T50615,2023-13-01,,Tablet,-10.0,,Cash,completed
+T34824,2025-02-30,C290,Tablet,,$-540.12,PayPal ,completed
+T15838,2023-13-01,C3359,Smartphone,-5.0,-998.4013235473108,credit card,Failed
+T85349,2023-13-01,C1663,Tablet,-4.0,710.8712858372362,Cash,completed
+T56730,2025-02-30,C4839,Tablet,921.0,682.8896165122221,creditcard,
+T59923,2025-02-30,C1945,Cof,666.0,$715.64,Credit Card,Failed
+T33804,2023-13-01,C2235,Headphones,755.0,-897.4341366019534,Cash,Completed
+T19838,2023-13-01,C4698,Smartphone,933.0,$944.78,pay pal,completed
+T21518,2023-13-01,C2982,Tablet,4.0,,PayPal ,completed
+T91196,2025-02-30,C1458,Laptop,903.0,-287.83331468368294,pay pal,complete
+T28011,2023-13-01,C4474,Laptop,,827.5521900956562,pay pal,completed
+T30221,,C1411,Laptop,-4.0,-250.33027460794904,Credit Card,Failed
+T65202,2021-10-27,C3847,Headphones,143.0,185.61072451046616,Cash,complete
+T22262,2023-13-01,C667,S,-3.0,-571.8724125796155,creditcard,Pending
+T37116,2020-12-28,C2085,Laptop,8.0,377.54149126461937,pay pal,Pending
+T44035,2025-02-30,C2434,Lapt,623.0,-636.4140012731019,PayPal,Completed
+T55594,2023-06-06,C4910,Coffee Machine,-6.0,92.42256462897613,PayPal ,complete
+T34339,2025-02-30,C3728,Laptop,2.0,,pay pal,
+T8951,2025-02-30,C237,Smartphone,-1.0,-84.98591334638684,pay pal,Completed
+T52507,2020-02-16,C3140,Laptop,-2.0,-236.6570448182281,pay pal,
+T84700,2025-02-30,C4051,Smartphone,-4.0,,credit card,
+T28853,2025-02-30,C1135,Smartphone,2.0,560.435949090152,PayPal ,complete
+T48595,2025-02-30,C344,Headphones,10.0,,pay pal,Pending
+T73977,2025-02-30,C856,Tablet,7.0,718.0763301702528,pay pal,Failed
+T45567,2023-13-01,C1140,Headphones,1.0,,PayPal,complete
+T87038,2024-07-30,C4254,Smartphone,-6.0,$944.05,Cash,Completed
+T11148,2020-12-17,C1883,Smartphone,-5.0,593.3549077742302,PayPal ,completed
+T86810,2022-03-14,C785,Tabl,9.0,636.9591616041257,Credit Card,Completed
+T72444,2025-02-30,C1604,Coffee Machine,-9.0,,PayPal ,completed
+T27725,,C3472,Smartphone,701.0,-214.52544788715875,pay pal,completed
+,2023-13-01,C1969,Tablet,-10.0,$370.81,PayPal,Completed
+T85627,2025-02-30,C1601,Smartphone,550.0,612.2589386799006,creditcard,
+T90867,2020-08-03,C2788,Laptop,516.0,,creditcard,Failed
+T19357,2024-08-12,C3829,Tablet,4.0,287.79659698022743,pay pal,Completed
+T32833,2021-04-02,C1805,Smartphone,214.0,675.7739260636546,Cash,Completed
+T89333,2021-12-10,C1292,Coffee Machine,442.0,-384.4246496681508,pay pal,Completed
+T31334,2023-13-01,C1095,Laptop,7.0,-219.51110041230675,Cash,Failed
+T68941,2024-12-24,C1759,Coffee Machine,9.0,,credit card,Pending
+T32613,2021-08-17,C2507,Tab,2.0,463.67128799322205,PayPal,Pending
+T41077,2023-13-01,C744,Headphones,10.0,,credit card,Failed
+T16784,2020-03-14,C4881,Smartphone,855.0,-342.8408725014375,Cash,completed
+T41131,2023-13-01,C2573,Smartphone,-4.0,577.5850984315599,PayPal ,complete
+T78319,2023-10-08,C497,Smartphone,831.0,,creditcard,Failed
+T72170,2023-12-24,C2339,Smartphone,341.0,174.2455914679021,creditcard,complete
+,2023-13-01,C1503,Coffee Machine,732.0,,Cash,complete
