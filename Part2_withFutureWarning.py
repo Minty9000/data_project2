@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# ⭐ BEST FIX: Set Pandas option to explicitly adopt future downcasting behavior,
+#FIX: Set Pandas option to explicitly adopt future downcasting behavior,
 # which eliminates the FutureWarning about 'df['class'] = df['class'].replace(class_mapping).astype(int)'
 pd.set_option('future.no_silent_downcasting', True) 
 
